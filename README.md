@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1>Data Analytics</h1>
   Welcome to my data stories!
@@ -20,3 +21,14 @@ List of case studies:<br>
     <td align="center"><a href="https://github.com/ps4449/machine-learning/tree/main/SentimentAnalysis_COVID19Dataset">🡥</a></td>
   </tr>
 </table>
+=======
+# Exploratory Data Analysis
+
+An analysis of different publicly available datasets. Datasets include:
+
+- Google Play Store App Analytics
+- Google Trends
+- LEGO Company Analytics
+- Programming Languages Over Time
+- US Bachelor Degrees vs Pay
+>>>>>>> deacebbe45d06080493208061cae3172e68653dd
